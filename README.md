@@ -1,0 +1,2 @@
+# Nutri-Snap-The-Nutritional-Helper
+Use our Machine Learning-trained AI to keep track of the nutritional facts that are in your food. Just take a picture of whatever food you're curious about and our app will provide you and record this information.   Attached below is a Dev-Post for more on this software: https://devpost.com/software/nutrisnap-the-nutritional-helper?ref_content=user-portfolio&amp;ref_feature=in_progress
